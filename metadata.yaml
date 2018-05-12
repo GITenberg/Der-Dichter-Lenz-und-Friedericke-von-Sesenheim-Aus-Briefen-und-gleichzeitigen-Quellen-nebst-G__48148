@@ -1,10 +1,14 @@
 _repo: Der-Dichter-Lenz-und-Friedericke-von-Sesenheim-Aus-Briefen-und-gleichzeitigen-Quellen-nebst-G__48148
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Stöber, August
       gutenberg_agent_id: '44646'
       url: http://www.gutenberg.org/2009/agents/44646
+covers:
+- cover_type: archival
+  image_path: 48148-h/images/cover.jpg
 creator:
   author:
     agent_name: Lenz, Jakob Michael Reinhold
@@ -19,6 +23,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
     - http://en.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48148#Der-Dichter-Lenz-und-Friedericke-von-Sesenheim-Aus-Briefen-und-gleichzeitigen-Quellen-nebst-G_
 gutenberg_issued: '2015-02-03'
 gutenberg_type: Text
 identifiers:
